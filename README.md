@@ -2,6 +2,8 @@
 
 **Algorithm Project** is a C# console application designed to explore, run, and visualize the performance of various sorting algorithms. Users can experiment with different input structures and compare algorithm efficiency in a simple, interactive console interface.
 
+THIS PROJECT IS NOT FULLY FINISHED
+- I still need to bug fix the timing issue.
 ---
 
 ## Features
